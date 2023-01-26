@@ -1,6 +1,5 @@
 import random
 
-print("Аракелян Эрик Размикович \nРабота №3 \nВариант №5")
 columns = int(input("Кол-во столбцов: "))
 rows = int(input("Кол-во строк: "))
 rand_min = int(input("Макс: "))
